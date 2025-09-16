@@ -25,6 +25,6 @@ a:active{
     background-color: tomato;
 }
 img{
-    height: 400px;
-    width: 400px;
+    max-height: 400px;
+    width:fit-content;
 }
